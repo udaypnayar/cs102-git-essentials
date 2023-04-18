@@ -5,3 +5,6 @@ git status - tells us what all files are untracked, what all changes have been m
 git commit - it commits any staged changes in the local machine
 git diff - it lets us know about the details of the unstaged changes that have been made by comparing the current contents of the files with the contents prior to the changes being made.
 git push - it merges the committed changes to the server of the repository
+
+SUMMARY:
+In today's lecture, we revised some basic git commands before kickstarting a discussion on markdown languages and its applications. The transition between the topics was fairly smooth because README files were used 
