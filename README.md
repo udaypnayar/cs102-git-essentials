@@ -1,4 +1,4 @@
 # cs102-git-essentials
 
-What do you think this is?
+This is an example in CS102.
 
