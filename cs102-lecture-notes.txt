@@ -9,4 +9,7 @@ git push - it merges the committed changes to the server of the repository
 SUMMARY:
 In today's lecture, we revised some basic git commands before kickstarting a discussion on markdown languages and its applications. The transition between the topics was fairly smooth because README files were used 
 
+
 What do you think huh?
+
+How was this summary? Not too good, huh?
