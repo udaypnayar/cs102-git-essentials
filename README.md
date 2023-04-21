@@ -6,5 +6,5 @@ Yo!
 
 What up?
 #=======
-Go way.
+Go your way.
 #>>>>>>> eab4438cbcf058bc3f595753b57baddd31bbd0d3
